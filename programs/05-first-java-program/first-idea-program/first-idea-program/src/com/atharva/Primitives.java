@@ -8,6 +8,5 @@ public class Primitives {
         double largeDecimalNumbers = 4567654.4567;
         long largeInteger = 34567834567876543L;
         boolean check = false;
-
     }
 }
