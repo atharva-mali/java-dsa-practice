@@ -25,7 +25,7 @@ public class Scope {
             int num = 90;
             a = 10000;
         }
-        System.out.println(a);
+        System.out.println();
     }
 
     static void random(int marks) {
