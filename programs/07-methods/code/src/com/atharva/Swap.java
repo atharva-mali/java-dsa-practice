@@ -16,13 +16,17 @@ public class Swap {
         String name = "Atharva Mali";
         changeName(name);
         System.out.println(name);
+
     }
 
     static void changeName(String naam) {
-        naam = "Rahul Rana";
+        naam = "Rahul Rana";    //creating a new object
+        int num = 10;
+        int b = 20;
     }
 
     static void swap(int a, int b) {
+//        System.out.println(naam);
         int temp = a;
         a = b;
         b = temp;
